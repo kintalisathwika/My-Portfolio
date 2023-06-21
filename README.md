@@ -1,4 +1,4 @@
 # My-Portfolio
-My UI/UX design portfolio:https:
+My UI/UX design portfolio:
 
-//www.notion.so/Sathwika-Kintali-s-Portfolio-92d941dc03a34ddfb38a1e147ce7bd03?pvs=4
+https://www.notion.so/Sathwika-Kintali-s-Portfolio-92d941dc03a34ddfb38a1e147ce7bd03?pvs=4
